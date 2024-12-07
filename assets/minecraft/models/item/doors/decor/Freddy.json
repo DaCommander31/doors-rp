@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "HakubiaWANTED"
+	},
+	"elements": [
+		{
+			"from": [2, 0, -1],
+			"to": [14, 0.1, 17],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 9, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 6, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 9, 0], "texture": "#missing"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#1"},
+				"down": {"uv": [12, 0, 6, 9], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-22.25, 0, 0],
+			"translation": [-6, 8.5, -0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-89.76, 0.02, 179.5],
+			"translation": [-1.5, 5.25, 6.25],
+			"scale": [0.5957, 0.5957, 0.5957]
+		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 28, -18.75],
+			"scale": [2.41602, 2.41602, 2.41602]
+		}
+	}
+}

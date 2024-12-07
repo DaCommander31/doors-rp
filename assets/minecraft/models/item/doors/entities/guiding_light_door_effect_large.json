@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/doors/entities/guiding_light_door_effect_large"
+    }
+}

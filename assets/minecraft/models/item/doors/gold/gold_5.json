@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/doors/gold/coin",
+		"particle": "item/doors/gold/coin"
+	},
+	"elements": [
+		{
+			"from": [6.75, 0, 7.25],
+			"to": [9.25, 0.25, 9.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [3, 0, 6, 1], "texture": "#0"},
+				"east": {"uv": [3, 1, 6, 2], "texture": "#0"},
+				"south": {"uv": [3, 2, 6, 3], "texture": "#0"},
+				"west": {"uv": [3, 3, 6, 4], "texture": "#0"},
+				"up": {"uv": [3, 3, 0, 0], "texture": "#0"},
+				"down": {"uv": [3, 3, 0, 6], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [7, 0, 7],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

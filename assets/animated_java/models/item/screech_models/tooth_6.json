@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "animated_java:item/screech_models/screech"
+	},
+	"elements": [
+		{
+			"from": [6, 8, 8],
+			"to": [10, 10.25, 9],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, -1, 15]
+			},
+			"faces": {
+				"north": {
+					"uv": [1.5, 0, 2, 0.25],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [1.5, 1.875, 1.625, 2.125],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [1.5, 0.25, 2, 0.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [1.625, 1.875, 1.75, 2.125],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2, 1.625, 1.5, 1.5],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [2, 1.625, 1.5, 1.75],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

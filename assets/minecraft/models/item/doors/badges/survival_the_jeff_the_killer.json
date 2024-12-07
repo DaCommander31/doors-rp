@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/doors/badges/survival_the_jeff_the_killer"
+    }
+}

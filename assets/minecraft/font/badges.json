@@ -1,0 +1,101 @@
+{
+    "$schema": "./../font_scheme_DO_NOT_TOUCH.json",
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "\u0020": -12
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/doors/badges/outline.png",
+            "height": 12,
+            "ascent": 10,
+            "chars": [
+                "\u0021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/doors/badges/gyatt.png",
+            "height": 10,
+            "ascent": 9,
+            "chars": [
+                "\u0022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/doors/badges/welcome.png",
+            "height": 10,
+            "ascent": 9,
+            "chars": [
+                "\u0023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/doors/badges/welcome_back.png",
+            "height": 10,
+            "ascent": 9,
+            "chars": [
+                "\u0024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/doors/badges/buddy_system.png",
+            "height": 10,
+            "ascent": 9,
+            "chars": [
+                "\u0025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/doors/badges/back_from_the_dead.png",
+            "height": 10,
+            "ascent": 9,
+            "chars": [
+                "\u0026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/doors/badges/betrayal.png",
+            "height": 10,
+            "ascent": 9,
+            "chars": [
+                "\u0027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/doors/badges/in_plain_sight.png",
+            "height": 10,
+            "ascent": 9,
+            "chars": [
+                "\u0028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/doors/badges/interconnected.png",
+            "height": 10,
+            "ascent": 9,
+            "chars": [
+                "\u0029"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "minecraft:item/doors/badges/uwu.png",
+            "height": 10,
+            "ascent": 9,
+            "chars": [
+                "\u0030"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/doors/decor/hanging_book",
+		"particle": "block/book"
+	},
+	"elements": [
+		{
+			"from": [7, 8, 8],
+			"to": [9, 14, 12],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 6, 2, 12], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"south": {"uv": [8, 0, 16, 16], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [4, 0, 8, 6], "texture": "#0"},
+				"up": {"uv": [16, 16, 8, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [8, 16, 16, 0], "rotation": 270, "texture": "#0"}
+			}
+		}
+	]
+}
