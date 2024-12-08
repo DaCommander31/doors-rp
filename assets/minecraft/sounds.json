@@ -402,6 +402,7 @@
     "doors.sfx.entities.seek_sewer_hand_spawn7":{"category":"hostile","sounds":["doors/sfx/entities/seek_hand_spawn7"]},
     "doors.sfx.entities.seek_sewer_hand_spawn8":{"category":"hostile","sounds":["doors/sfx/entities/seek_hand_spawn8"]},
 
+    "doors.sfx.entities.seek_sewer_sludge_scream":{"category":"hostile","sounds":["doors/sfx/entities/seek_sewer_sludge_scream"]},
     "doors.sfx.entities.seek_sewer_sludge_moving1":{"category":"hostile","sounds":["doors/sfx/entities/seek_sewer_sludge_moving1"]},
     "doors.sfx.entities.seek_sewer_sludge_moving2":{"category":"hostile","sounds":["doors/sfx/entities/seek_sewer_sludge_moving2"]},
     "doors.sfx.entities.seek_sewer_sludge_moving3":{"category":"hostile","sounds":["doors/sfx/entities/seek_sewer_sludge_moving3"]},
