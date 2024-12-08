@@ -42,6 +42,7 @@
         {"predicate":{"custom_model_data":34},"model":"item/doors/decor/pillar_base"},
         {"predicate":{"custom_model_data":35},"model":"item/doors/decor/pillar"},
         {"predicate":{"custom_model_data":36},"model":"item/doors/decor/curtain"},
+        {"predicate":{"custom_model_data":37},"model":"item/doors/decor/ceiling_electrical_light"},
 
         {"predicate":{"custom_model_data":40},"model":"item/doors/doors/hotel_door"},
         {"predicate":{"custom_model_data":41},"model":"item/doors/doors/hotel_breakout_door"},
@@ -72,7 +73,7 @@
         {"predicate":{"custom_model_data":107},"model":"item/doors/entities/dupe_bottom_teeth"},
         {"predicate":{"custom_model_data":108},"model":"item/doors/entities/dupe_top_teeth"},
         {"predicate":{"custom_model_data":109},"model":"item/doors/entities/seek_eye"},
-        {"predicate":{"custom_model_data":115},"model":"items/entities/guiding_light_door_effect"},
+        {"predicate":{"custom_model_data":115},"model":"item/doors/entities/guiding_light_door_effect"},
         {"predicate":{"custom_model_data":116},"model":"item/doors/entities/guiding_light_door_star_effect"},
         {"predicate":{"custom_model_data":117},"model":"item/doors/entities/guiding_light_door_iris_effect"},
         {"predicate":{"custom_model_data":118},"model":"item/doors/entities/guiding_light_door_effect_large"},
