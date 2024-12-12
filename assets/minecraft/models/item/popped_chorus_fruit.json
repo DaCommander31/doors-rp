@@ -63,6 +63,10 @@
         {"predicate":{"custom_model_data":58},"model":"item/doors/desks/3_drawer_desk_right"},
         {"predicate":{"custom_model_data":59},"model":"item/doors/desks/1_drawer_desk"},
         {"predicate":{"custom_model_data":60},"model":"item/doors/decor/hotel_sign"},
+        {"predicate":{"custom_model_data":61},"model":"item/doors/decor/elevator_door"},
+        {"predicate":{"custom_model_data":62},"model":"item/doors/decor/elevator_door_grate"},
+        {"predicate":{"custom_model_data":63},"model":"item/doors/decor/elevator_level"},
+        {"predicate":{"custom_model_data":64},"model":"item/doors/decor/elevator_buttons"},
 
         {"predicate":{"custom_model_data":101},"model":"item/doors/entities/rush"},
         {"predicate":{"custom_model_data":102},"model":"item/doors/entities/rush_charge"},
