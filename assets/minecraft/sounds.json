@@ -31,6 +31,7 @@
     "doors.lever_pull":{"sounds":["doors/lever_pull"]},
     "doors.haste_chase":{"sounds":["doors/haste_chase"]},
     "doors.haste_near":{"sounds":["doors/haste_near"]},
+    "doors.rooms_entrance":{"sounds":["doors/rooms_entrance"]},
 
     "doors.elevator_mines":{"sounds":["doors/elevator_mines"]},
     "doors.elevator_mines_end":{"sounds":["doors/elevator_mines_end"]},
