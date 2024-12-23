@@ -165,7 +165,7 @@
 
     "doors.sfx.entities.seek_eye_spawn":{"sounds":["doors/sfx/entities/seek_eye_spawn"]},
     "doors.sfx.entities.seek_eye_blink":{"sounds":["doors/sfx/entities/seek_eye_blink"]},
-    "doors.sfx.entities.seek_far_ambience":{"category":"ambience","sounds":["doors/sfx/entities/seek_far_ambience"]},
+    "doors.sfx.entities.seek_far_ambience":{"sounds":["doors/sfx/entities/seek_far_ambience"]},
     "doors.sfx.entities.seek_jumpscare":{"sounds":["doors/sfx/entities/seek_jumpscare"]},
     "doors.sfx.entities.seek_kill":{"sounds":["doors/sfx/entities/seek_kill"]},
     "doors.sfx.entities.seek_knock":{"sounds":["doors/sfx/entities/seek_knock"]},
